@@ -27,6 +27,8 @@ Gem::Specification.new do |s|
     README.md
     Rakefile
     lib/tubeline.rb
+    test/fixtures/response.xml
+    test/tubeline_test.rb
     tubeline.gemspec
   ]
   # = MANIFEST =
